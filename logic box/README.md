@@ -1,3 +1,8 @@
+click to see video:-
+https://drive.google.com/file/d/1unFoh95yxsVnsRnkXGPpBjX69bIVsTUz/view?usp=drive_link
+
+
+
 # 🔷 LogicBox – Pattern Generator & Number Analyzer
 
 A beginner-friendly and interactive Python console project that combines **pattern generation** and **number analysis** using loops, conditions, and menu-driven programming.

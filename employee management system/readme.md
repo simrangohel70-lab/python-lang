@@ -206,6 +206,4 @@ After completing this project, students will be able to:
 
 ### 👨‍🎓 Subject : Python Programming
 
-### 🏫 Level : Beginner to Intermediate
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

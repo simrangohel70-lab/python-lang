@@ -1,5 +1,7 @@
 # 👨‍💼 Employee Management System
 
+click here to see video:
+https://drive.google.com/file/d/1IJTZTJr5_vQk27UxTWt5Z1STL-YnmFza/view?usp=sharing
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 📌 TITLE

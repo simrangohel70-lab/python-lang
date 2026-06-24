@@ -2,6 +2,8 @@
 
 ## 🌟 Project Overview
 
+clich here to see video:https://drive.google.com/file/d/1dDy1a30y3CIJYWzQ0ASACY3IAZga3Gaq/view?usp=drive_link
+
 **Personal Journal Manager** is a Python-based command-line application that helps users maintain a digital journal. Users can add daily entries, view all saved entries, search for specific entries, and delete all entries when required.
 
 The program stores journal entries in a text file (`journal.txt`) along with the current date and time, making it easy to track thoughts and activities.
